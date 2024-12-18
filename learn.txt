@@ -1,0 +1,5 @@
+what we learn -
+
+1)function : SetHours , getItem , setItem , slice , Splice , stringify 
+             parse, 
+2) methods : date.toLocaleDateString(en-GB) , onfocus , onblr
